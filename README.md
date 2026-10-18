@@ -1,2 +1,2 @@
 # SocketDate
-Programme d'envoie et de reception de messages passant par des sockets
+Programme d'envoie et de réception de messages passant par des sockets
